@@ -7,4 +7,4 @@
  - Ülesanne 4 [x]
  - Ülesanne 5 [x]
  - Ülesanne 6 [x]
-
+ - Ülesanne 7 [x]
